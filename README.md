@@ -2,8 +2,10 @@
 It is a virtual Assistant created using Python. It is a non AI based virtual Assistant which has a simple graphical user interface designed to perform some common task which we do in our day to day life.
 
 
-#Screenshot of virtual Assistant.
-<img src="https://github.com/06Reetu/Virtual-Assistant/blob/main/Screenshot%20(600).png" alt="alt text" height=400 width="400"/>         
+# Screenshot of virtual Assistant.
+<img src="https://github.com/06Reetu/Virtual-Assistant/blob/main/Screenshot%20(600).png" alt="alt text" height=400 width="400"/>   
+
+
 
 
 Please do ⭐ the repository, if you like this.😊
